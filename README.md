@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4V93y1JW/giphy.gif" alt="Coding GIF" width="100%" />
-</div>
-
-<br />
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Coding GIF" width="100%" />
+</p>
 
 # Hello World 👋
 
@@ -29,10 +27,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGSantosDev&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSantosDev&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
