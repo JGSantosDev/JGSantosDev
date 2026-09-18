@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Art Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4V93y1JW/giphy.gif" alt="Pixel Art Coding GIF" width="300" />
 </p>
 
 # Hello World 👋
