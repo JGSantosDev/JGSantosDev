@@ -1,14 +1,8 @@
-
-
-# Hello World 👋
-
 <div align="center">
-  <!-- BAIXE A IMAGEM GIF QUE EU GEREI E HOSPEDE NO SEU REPOSITÓRIO (ex: pasta assets) -->
-  <!-- DEPOIS, SUBSTITUA O LINK ABAIXO PELO LINK REAL DA SUA IMAGEM HOSPEDADA -->
-  <img src="https://path/to/your/hosted/pixel_art_room.gif" alt="Quarto Pixel Art Gamer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Pixel Art Gamer" />
 </div>
 
-<br />
+# Hello World 👋
 
 ### 💻 Technical student in Systems Development | Focused on Backend, Databases and Web Development
 
@@ -33,7 +27,6 @@
 
 ---
 
-<!-- SEÇÃO DE ESTATÍSTICAS CENTRALIZADA COM HTML PARA EVITAR QUEBRAS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGSantosDev&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSantosDev&layout=compact&theme=dark" alt="Top Languages" />
