@@ -1,5 +1,9 @@
 # Hello World 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhuM2psa2JreXZ2eHJxMmRxeXNzbzRwOHlsOHF2OG14Nms0Z2ZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V93y1JW/giphy.gif" width="300" alt="Coding GIF" />
+</div>
+
 ### 💻 Technical student in Systems Development | Focused on Backend, Databases and Web Development
 
 ---
