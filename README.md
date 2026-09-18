@@ -1,8 +1,10 @@
 # Hello World 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhuM2psa2JreXZ2eHJxMmRxeXNzbzRwOHlsOHF2OG14Nms0Z2ZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V93y1JW/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4V93y1JW/giphy.gif" width="100%" alt="Pixel Art Room Setup" />
 </div>
+
+<br />
 
 ### 💻 Technical student in Systems Development | Focused on Backend, Databases and Web Development
 
@@ -27,10 +29,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGSantosDev&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGSantosDev&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
