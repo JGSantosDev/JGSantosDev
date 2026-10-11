@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=JGSantosDev&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Systems%20Development%20Student&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=JGSantosDev&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Systems%20Development%20Student&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
